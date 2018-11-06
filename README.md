@@ -10,7 +10,6 @@
 
 ## Introduction
 RocketBot is an MIT-licensed open source project. 
-It‘s UI for [Apache SkyWalking](https://github.com/apache/incubator-skywalking). This project is supported By [COSMOPlat-DEV Labs](https://github.com/COSMOPlat-DEV-Labs).
 
 ![](document/assets/demo1.png)
 
@@ -18,14 +17,6 @@ It‘s UI for [Apache SkyWalking](https://github.com/apache/incubator-skywalking
 
 ![](document/assets/demo3.png)
 
-**[Demo](http://106.75.216.40:8080/)**
-
-**[Docs](https://github.com/cosmoplat-dev/rocketbot/blob/master/Document.md
-)**
-
-## Development
-
- The app was built with [vue + typescript](https://github.com/vuejs/vue).
 
 ### Getting codes
 
@@ -118,12 +109,12 @@ for us to fix.
 
 ### How to report a bug?
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/cosmoplat-dev/rocketbot/issues).
+* **Ensure the bug was not already reported** by searching on GitHub under Issues.
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/cosmoplat-dev/rocketbot/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+* If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 
 ## License
 
-Copyright © 2018, [COSMOPlat-DEV](https://github.com/cosmoplat-dev). Released under the [MIT](http://opensource.org/licenses/MIT) License.
+Copyright © 2018, [COSMOPlat-DEV](https://github.com/cosmoplat-dev). Released under the MIT License.
 
